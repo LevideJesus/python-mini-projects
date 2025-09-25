@@ -17,6 +17,5 @@ Welcome to the **Python Mini Projects** repository! This is a collection of begi
 - Python 3
 
 - ## 👤 Project Maintainer
-- 
 - Levi de Jesus
 - levijesus2121@gmail.com
