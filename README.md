@@ -15,16 +15,16 @@ Welcome to the **Python Mini Projects** repository! This is a collection of begi
 
 - ## 🚀 How to Run the Projects
  **Clone this repository:**
-   bash
-   git clone https://github.com/yourusername/python-mini-projects.git
-   cd python-mini-projects
+     - bash
+     - git clone https://github.com/yourusername/python-mini-projects.git
+     - cd python-mini-projects
   
-   Run a specific project:
-   python3 project-name.py
+     - Run a specific project:
+     - python3 project-name.py
 
   🛠️ Technologies Used
-  Python 3
+     - Python 3
 
   👤 Project Maintainer
-    Levi de Jesus
-    levijesus2121@gmail.com
+      - Levi de Jesus
+      - levijesus2121@gmail.com
